@@ -1,13 +1,13 @@
 ```markdown
-## Background
+Background
 
 
 
-## Current Findings
+Current Findings
 
 
 
-## Interesting Findings
+Interesting Findings
 ```
 
 
